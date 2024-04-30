@@ -216,6 +216,7 @@ h3.note {
 
 .elements img {
   width: 48px;
+  justify-content: space-between;
 }
 
 
@@ -227,7 +228,6 @@ h3.note {
   padding: 15px;
   padding-top: 8px;
 }
-
 
 
 .profile {
